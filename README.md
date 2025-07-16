@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Started making this website. Did not finish yet
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
